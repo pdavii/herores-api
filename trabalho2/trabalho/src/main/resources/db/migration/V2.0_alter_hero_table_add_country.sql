@@ -1,1 +1,0 @@
-alter table Hero add column country varchar(40) not null;
